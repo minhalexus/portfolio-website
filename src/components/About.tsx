@@ -40,7 +40,16 @@ function About({}: Props) {
                 background.
             </h4>
             <p className="text-sm text-justify">
-               Lorem  vel elit fringilla, ultricies quam et, sodales libero. Donec congue neque non sem ultricies, ut aliquet mauris pulvinar. Nullam blandit sapien vitae rutrum rhoncus. Sed nec ante a massa ultricies scelerisque id vitae sem. Curabitur bibendum semper ex, consectetur viverra dolor lobortis vel. Maecenas aliquam, sem id viverra bibendum, dolor ligula congue nulla, eget dapibus velit odio sed leo. Integer molestie sem leo, a cursus nisl venenatis et. Suspendisse erat enim, commodo quis quam non, mollis pharetra enim. Donec facilisis risus vel nulla eleifend, nec euismod enim aliquam. Pellentesque et sem tempus. 
+               Lorem  vel elit fringilla, ultricies quam et, sodales libero. 
+               Donec congue neque non sem ultricies, ut aliquet mauris 
+               pulvinar. Nullam blandit sapien vitae rutrum rhoncus. Sed nec 
+               ante a massa ultricies scelerisque id vitae sem. Curabitur
+                bibendum semper ex, consectetur viverra dolor lobortis vel.
+                 Maecenas aliquam, sem id viverra bibendum, dolor ligula
+                  congue nulla, eget dapibus velit odio sed leo. Integer 
+                  molestie sem leo, a cursus nisl venenatis et. Suspendisse 
+                  erat enim, commodo quis quam non, mollis pharetra enim. 
+                  Donec facilisis risus vel nulla eleifend, nec euismod enim aliquam. Pellentesque et sem tempus. 
             </p>
         </div>
     
